@@ -1,6 +1,3 @@
-#Bibliotecas
-
-
 # Definição de variáveis
 
 temperatura = float(input("Qual a temperatura atual?"));
